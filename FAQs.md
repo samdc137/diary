@@ -1,6 +1,6 @@
-# Easy Diary FAQs
+# Secret Diary FAQs
 
-This is the list of Frequently asked questions for Easy Diary. It is intended to serve as a self-service utility document. This is to aid new users or already existing users of Easy Diary. This document may be updated from time to time to suit any new changes to the software as new developments or changes will be implemented.
+This is the list of Frequently asked questions for Secret Diary. It is intended to serve as a self-service utility document. This is to aid new users or already existing users of Secret Diary. This document may be updated from time to time to suit any new changes to the software as new developments or changes will be implemented.
 
 ---
 
@@ -10,9 +10,9 @@ This is the list of Frequently asked questions for Easy Diary. It is intended to
 
 ---
 
-## What is Easy Diary?
+## What is Secret Diary?
 
-- Easy Diary is a diary application that is optimized to give you the best user experience. The application is design with many amazing features that you won't find on a regular diary app. 
+- Secret Diary is a diary application that is optimized to give you the best user experience. The application is design with many amazing features that you won't find on a regular diary app. 
 
 The features/functions of the app include;
 
@@ -33,13 +33,13 @@ The features/functions of the app include;
 
 ---
 
-## Do I have to sign up or register before using Easy Diary?
+## Do I have to sign up or register before using Secret Diary?
 
-- Easy Diary doesn't require any registrations or sign up processes before users can make use of it. Download, and start writing, or recording whatever you wish of your daily activities.
+- Secret Diary doesn't require any registrations or sign up processes before users can make use of it. Download, and start writing, or recording whatever you wish of your daily activities.
 
 ---
 
-## Easy Diary comes preloaded with diary entries, why?
+## Secret Diary comes preloaded with diary entries, why?
 
 - Yes, the app comes with preloaded entries. This is so that you can get the feel that how your own entries would look like on the app. 
 
@@ -79,12 +79,6 @@ You can add extra information to your entries. Like weather and time.
 
 ---
 
-## Can my entries be written in markdown?
-
-- No, this feature is not currently supported on the app. 
-
----
-
 ## Is there a maximum length of word I can write on an entry?
 
 - No, there is no limit to how many words can be used in an entry. You can write as long as you want. However, it is advisable to keep your entry short, for easy readability next time. 
@@ -116,13 +110,13 @@ Access the settings page and enable the `multi picker setting`
 
 ## Why can't I add pictures using a camera, directly on the app?
 
-- This feature is not currently available, but, it is on my to-do list and would be available soon. 
+- This feature is not currently available, but, it is on our to-do list and will be available soon.
 
 ---
 
 ## Can other media like audio and video be added to my entry?
 
-No, audio and video cannot be added to your entries at the moment. 
+No, audio and video cannot be added to your entries at the moment.
 
 ---
 
@@ -143,9 +137,7 @@ No, audio and video cannot be added to your entries at the moment.
 
 Yes, the user interface of the app is highly customizable. You can customize the colour schemes, font size, font spacing and font colour. You can also add your own fonts.
 
-[Read how to add your own custom fonts to the app](https://github.com/hanjoongcho/aaf-easydiary/blob/master/MANUAL.md)
-
-There are some other useful customizations you will find on the settings page. 
+Find more useful customizations on the settings page.
 
 ---
 
@@ -157,34 +149,34 @@ The fingerprint method is still in its beta stages, so you might experience some
 
 ---
 
-## Where can I download Easy Diary?
+## Where can I download Secret Diary?
 
-- Easy Diary can be downloaded from [F-Droid](https://f-droid.org/en/packages/com.korn123.easydiary) or [Google Play store](https://play.google.com/store/apps/details?id=com.korn123.easydiary).
+- Secret Diary can be downloaded from [Google Play store](https://play.google.com/store/apps/details?id=com.happypixels.diary).
 
 ---
 
-## Are there other OS versions of  Easy Diary?
+## Are there other OS versions of Secret Diary?
 
-- For now, this app is only available to use by Android users. I am currently working on making the Android experience as amazing as possible. Only then will porting to other platforms be considered. 
+- Currently, this app is only available for Android users.
 
 ---
 
 ## Do I need to pay to use any feature on the app?
 
-No, you don't need to pay any fee to use any feature available on the app. All the services of the app are provided for free.
-The app is also rid of unnecessary ads and pop-ups. 
+No, you don't need to pay any fee to use any feature available on the app.
 
+---
 
-## Can I contribute to Easy Diary project?
+## Can I send feedback/feature requests to the developer?
 
 Yes, please!
 
-Feel free to share your ideas(feature requests), submit a bug or pull request for anything you feel should be added.
+Feel free to share your ideas(feature requests), report a bug or anything you feel should be added. Send an email to happy-pixels@outlook.com.
 
-This project is opened to contributions of any kind. You can also fork the project and further develop it on your own so long as you work within the confines of the license. Pull requests of your contributions will be merged if they fulfil some certain requirements. Read the project's [Contributor's guide]() to get started on how to contribute.
+---
 
 ## I have some questions not contained in this FAQs document, how can I contact the developer?
 
-For further inquiries, you can contact the developer via email. Send an email to hanjoongcho@gmail.com. The developer can also be contacted by opening an [issue](https://github.com/hanjoongcho/aaf-easydiary/issues/new) on the repository.
+For further inquiries, you can contact the developer via email. Send an email to happy-pixels@outlook.com.
 
-You can also check out the developer's profile [here](https://github.com/hanjoongcho).
+
