@@ -27,6 +27,8 @@ The objective of this policy document is to provide an open environment between 
 - a. We do not store Personal Information and therefore we do not disclose your Personal Information.
 - b. Non-Personal Information. We may disclose Non-Personal Information to our trusted partners who shall comply with this privacy policy and the relevant privacy laws. We do not combine Non-Personal Information with Personal Information.
 
+---
+
 ### THIRD- PARTY SITES
 
 In general, the Application, and Services access third party information through application interfaces. We may provide links to third-party Web sites as a service to our Users. The Site may also carry advertisements from other companies. When you click on links of third parties in an Application, the Services, you may leave the Application, the Services or the Site. We do not collect your information on and through and This Policy does not address, and we are not responsible for, the privacy practices of Web sites operated by third parties, whether they are linked to or otherwise accessible from an Application or Services. The inclusion of a link or accessibility of third party Websites does not imply endorsement of such third party Website by us.
